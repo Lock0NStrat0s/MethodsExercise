@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.sourcelink.json
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
